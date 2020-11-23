@@ -1,0 +1,37 @@
+
+body {
+   padding: 20px 20px 20px;
+   
+}
+
+#container {
+  padding: 20px 20px 20px;
+  border: thin solid gray;
+
+}
+
+#card {
+  border: thin solid grey;
+}
+
+#interesting-fact {
+	font-style: italic;
+}
+span {
+  font-weight: bold;
+  font-style: none;
+}
+
+#facts {
+  list-style: none;
+  font-style: italic;
+}
+
+.animal-info{
+   padding: 20px;
+}
+.animal-info {
+  font-style: italic ;
+  border : 2px solid grey;
+  padding: 10px;
+}
